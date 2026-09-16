@@ -1,0 +1,23 @@
+{
+  "repo": "cura-full",
+  "product": "Cura Full",
+  "kind": "maker",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "slicer",
+  "topics": [
+    "cura-slicer",
+    "print-profile-desk",
+    "support-paint-windows",
+    "cura-2026",
+    "how-to-install-cura",
+    "cura-desktop-package",
+    "gcode-preview-suite",
+    "tree-support-tools",
+    "3d-print-workshop",
+    "cura-professional-suite"
+  ],
+  "site": "toolix.me"
+}
